@@ -118,7 +118,7 @@ A bar chart depicting the number of shows released each year, showing an increas
 # Snapshot of Dashboard (Power BI Service)
 
 **Click the picture to open the dashboard and try it out!**
-[![image](https://github.com/user-attachments/assets/cbbdcd69-a2df-419c-95ac-4bc64c4a60de)]((https://app.powerbi.com/view?r=eyJrIjoiN2RjYTY0YTYtMDUwMC00Y2IyLTlmOWMtOWI4ZGY2MmYwYmQwIiwidCI6IjM0Y2JmYWYxLTY3YTYtNDc4MS1hOWNhLTUxNGViMjU1MGI2NiIsImMiOjN9&embedImagePlaceholder=true))
+[![image](https://github.com/user-attachments/assets/cbbdcd69-a2df-419c-95ac-4bc64c4a60de)](https://app.powerbi.com/view?r=eyJrIjoiN2RjYTY0YTYtMDUwMC00Y2IyLTlmOWMtOWI4ZGY2MmYwYmQwIiwidCI6IjM0Y2JmYWYxLTY3YTYtNDc4MS1hOWNhLTUxNGViMjU1MGI2NiIsImMiOjN9&embedImagePlaceholder=true)
 
 # Insights
 

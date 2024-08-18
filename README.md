@@ -1,8 +1,6 @@
 
 # Data Analyst Portfolio Project - Netflix 
 
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiN2RjYTY0YTYtMDUwMC00Y2IyLTlmOWMtOWI4ZGY2MmYwYmQwIiwidCI6IjM0Y2JmYWYxLTY3YTYtNDc4MS1hOWNhLTUxNGViMjU1MGI2NiIsImMiOjN9&embedImagePlaceholder=true
-
 ## Business Problem 
 
 In today's competitive entertainment landscape, streaming platforms are always on the lookout for ways to captivate and keep their viewers. With a vast library of TV shows and movies, it can be quite a challenge to figure out what viewers really want and how to optimize content offerings. This Dashboard tackles the issue of understanding viewer preferences and content trends by diving into a rich dataset of TV shows and movies. By analyzing various metrics like show count by country, type, rating, and release year, we can uncover valuable insights into content distribution and what viewers are drawn to. These insights can help streaming platforms make smarter decisions about their content strategy, boost user engagement, and ultimately grow their subscriber base.
